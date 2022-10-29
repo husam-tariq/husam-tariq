@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Husam Tariq</h1>
 <h3 align="center">A passionate developer 👨‍💻 from Yemen 🇾🇪</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husam-tariq" alt="husam-tariq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husam-tariq&theme=onedark" alt="husam-tariq" /></a> </p>
 
 - 📫 How to reach me *hu22am1@gmail.com*
 
