@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Call 📞 me or Add me on WhatsApp : +967775002091
+   📞 : +967775002091
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
